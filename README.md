@@ -1,2 +1,1 @@
-Manager
-test
+Manager app
